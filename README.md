@@ -24,4 +24,8 @@ eLife 11, pp. e70816.
 repo: [Dryad, data setDOI: doi.org/10.6078/D12M6C](https://doi.org/10.6078/D12M6C)
 
 Loblolly Data:
-Available in standard R datasets, see e.g. [the nlme package](https://CRAN.R-project.org/package=nlme) by J. Pinheiro et al.
+Available in the R datasets package, see e.g. [stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
+With referenced source:
+⁠Kung FH (1986)
+**Fitting Logistic Growth Curve with Predetermined Carrying Capacity.**
+In Proceedings of the Statistical Computing Section, 340–343. American Statistical Association.
